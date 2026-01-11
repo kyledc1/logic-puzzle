@@ -14,6 +14,11 @@
 // ---------------------------------------------------
 // 05/09/2024              KDC                  created
 
+//new stuff
+//trying to merge
+
+//hello
+
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
