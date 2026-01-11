@@ -14,8 +14,6 @@
 // ---------------------------------------------------
 // 05/09/2024              KDC                  created
 
-//removed old comment
-
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.geometry.Pos;
