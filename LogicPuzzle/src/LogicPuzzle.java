@@ -14,9 +14,7 @@
 // ---------------------------------------------------
 // 05/09/2024              KDC                  created
 
-//this is new on main
-//this is new on branch create
-//commit test
+//removed old comment
 
 import javafx.application.Application;
 import javafx.geometry.Insets;
